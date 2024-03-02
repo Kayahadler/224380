@@ -11,6 +11,11 @@ body {
 	color: #202030;
 	background-color: #060606;
 }
+h2 {
+    color: cornflowerblue;
+}
+
+
 
 /* Styles for custom classes in the document. (There are more, try to find them out!) */
 
@@ -43,6 +48,10 @@ body {
 
 .biography-details li, .skill-list li {
 	padding-left: 1em;
+}
+
+.text-color {
+	color: darkgrey;
 }
 
 .language-progress {
